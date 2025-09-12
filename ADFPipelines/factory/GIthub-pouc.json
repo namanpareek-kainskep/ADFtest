@@ -1,0 +1,9 @@
+{
+	"name": "GIthub-pouc",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "089d4073-6d00-44af-9399-103efc9d4a9d",
+		"tenantId": "3131975c-b684-4167-a192-b56ac430dc24"
+	}
+}
